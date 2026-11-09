@@ -146,4 +146,4 @@ npm run doctor
 
 ## Author
 
-Udit. Built as a personal product and internship project, 2026.
+Udit. Built as a personal product, 2026.
