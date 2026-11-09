@@ -52,7 +52,8 @@
         }
       ],
       "expo-dev-client",
-      "./plugins/with-partner-queries.js"
+      "./plugins/with-partner-queries.js",
+      "expo-status-bar"
     ],
     "experiments": {
       "typedRoutes": true

@@ -61,7 +61,7 @@ stop and ask for it. `app/index.tsx` stays a blank "Cravy Ready" placeholder unt
 
 | Area          | Choice                                                       | Notes                                                        |
 | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Runtime       | Expo SDK 56, React Native 0.85, React 19.2                   | Expo Go in stores supports this line                         |
+| Runtime       | Expo SDK 57, React Native 0.86, React 19.2                   | Includes the Hermes V1 memory fix (expo >= 57.0.17)          |
 | Routing       | Expo Router (file-based, typed routes on)                    | Routes in `app/`, nothing else lives there                   |
 | Styling       | NativeWind 4.2 + Tailwind CSS 3.4                            | NativeWind v4 requires Tailwind 3, not 4. v5 is RC, not used |
 | Animation     | Reanimated 4 + react-native-worklets                         | Babel plugin is auto-added by babel-preset-expo              |

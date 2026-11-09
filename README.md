@@ -59,7 +59,7 @@ The full specification lives in `DESIGN_SYSTEM.md`.
 
 | Area          | Choice                                               |
 | ------------- | ---------------------------------------------------- |
-| App framework | Expo SDK 56, React Native 0.85, React 19, TypeScript |
+| App framework | Expo SDK 57, React Native 0.86, React 19, TypeScript |
 | Navigation    | Expo Router (file-based, typed routes)               |
 | Styling       | NativeWind 4 (Tailwind CSS for React Native)         |
 | Animation     | React Native Reanimated 4, Lottie, react-native-svg  |
